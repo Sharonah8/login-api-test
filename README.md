@@ -12,4 +12,4 @@ This script automates the testing of a login API. It includes test cases for:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/Sharonah8/login-api-test
